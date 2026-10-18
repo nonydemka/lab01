@@ -1,0 +1,6 @@
+Memory:
+
+      Memory: 32 GB
+      Type: LPDDR5
+      Manufacturer: Samsung
+

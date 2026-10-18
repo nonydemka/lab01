@@ -1,0 +1,4 @@
+Apple M5
+Cores/Threads:
+10
+10
